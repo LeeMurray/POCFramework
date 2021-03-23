@@ -1,0 +1,23 @@
+{
+  "name": "POCFramework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeMurray/POCFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeMurray/POCFramework/issues"
+  },
+  "homepage": "https://github.com/LeeMurray/POCFramework#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
